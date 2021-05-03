@@ -1,16 +1,23 @@
+#reading.notes
+
+##intreduce myself
+
 Hello everyone my name is Ala’a Barakeh I’m a programming software student I’m graduated from university of Jordan I studied languages but my dream was Cs I like learning software and I can help anyone has a problem .from my notes .
 
+Finally this is my account in GitHub 
 
-# first project 
+https://github.com/alaabarakaXMA Header Imagealaabaraka - Overviewgithub.com
 
- there are lots **books**
+**table of content**
 
-*-novels*
+|reading notes  | link                                        |
+| -----------   | -----------                                 |
 
-*-short stories*
+|read01         |https://github.com/alaabaraka/reading-note/blob/main/read01.md|
 
-*-paem*
+| read02        |https://github.com/alaabaraka/reading-note/blob/main/read02.md|
 
-this is an example of [short story Hansel and Gretel](https://www.dltk-teach.com/fairy-tales/hansel-and-gretel/story.htm)
+| read03        |  https://github.com/alaabaraka/reading-note/blob/main/read03.md|  
 
-![image hansel](https://www.dltk-teach.com/fairy-tales/hansel-and-gretel/images/s/hansel.jpg)
+
+
