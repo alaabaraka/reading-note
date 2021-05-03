@@ -9,6 +9,6 @@ Finally this is my account in GitHub
 **table of content**
 
 assignment            link
-[read01]()
+[read01](https://alaabaraka.github.io/reading-note/)
 [read02]()
 [read03]()
