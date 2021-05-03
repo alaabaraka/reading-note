@@ -10,5 +10,5 @@ Finally this is my account in GitHub
 
 assignment            link
 [read01](https://github.com/alaabaraka/reading-note/blob/main/read01.md)
-[read02]()
+[read02](https://github.com/alaabaraka/reading-note/blob/main/read02.md)
 [read03]()
