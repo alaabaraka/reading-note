@@ -1,4 +1,4 @@
- JavaScript's expressions and operators, including assignment, comparison, arithmetic, bitwise, logical, string, ternary and more.
+JavaScript's expressions and operators, including assignment, comparison, arithmetic, bitwise, logical, string, ternary and more.
 
 Operators (Links to an external site.)
 JavaScript has the following types of operators. This section describes the operators and contains information about operator precedence
@@ -27,3 +27,4 @@ A bitwise operator treats their operands as a set of 32 bits (zeros and ones), r
 
 Logical operators (Links to an external site.)
 Logical operators are typically used with Boolean (logical) values; when they are, they return a Boolean value.
+
